@@ -5,7 +5,7 @@
     <title>マイページ</title>
 </head>
 <body>
-    <h1>こんにちは！これは私のGitHub Pagesです。</h1>
+    <h1>こんにちは！これは私のポートフォリオページです。</h1>
 </body>
 </html>
 
